@@ -1,0 +1,19 @@
+.title-slide {
+  background-image: url(images/title-image.jpg);
+  background-size: cover;
+}
+
+.remark-slide-content{
+  font-size: 175%;
+  font-family: 'Helvetica Neue', Arial;
+  font-weight: 300;
+}
+
+.remark-slide-content li{
+  list-style-type: circle;
+  line-height: 150%;
+}
+
+.right-column{
+  width: 70%;
+}
