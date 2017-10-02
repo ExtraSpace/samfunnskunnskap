@@ -13,6 +13,11 @@ output:
       yoho: false
 ---
 
+```{r, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
 class: inverse, center, middle
 
 # New Immigrants in Norway
@@ -20,8 +25,11 @@ class: inverse, center, middle
 ---
 
 .left-column[
-# New Immigrants in Norway
 ## Who can Apply for Residency?
+```{r}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pok%C3%A9mon_GO_Plus.svg/2000px-Pok%C3%A9mon_GO_Plus.svg.png")
+```
+
 ]
 .right-column[
 
@@ -43,8 +51,11 @@ Work Permit
 ---
 
 .left-column[
-# New Immigrants in Norway
 ## Norwegian Language Requirement
+```{r}
+knitr::include_graphics("https://pixabay.com/get/e833b00c20f31c22d2524518a34a4096e470e5d404b0144193f9c979a2edb5/penguin-161387_1280.png")
+```
+
 ]
 .right-column[
 **Right and Obligation:**
@@ -65,8 +76,10 @@ Work Permit
 
 
 .left-column[
-# New Immigrants in Norway
 ## Norwegian Language Requirement
+```{r}
+knitr::include_graphics("https://pixabay.com/get/e833b00b28f21c22d2524518a34a4096e470e5d404b0144193f9c979a2e8b2/tux-161406_1280.png")
+```
 ]
 .right-column[
 **Right and Obligation:**
@@ -85,8 +98,10 @@ Work Permit
 
 ---
 .left-column[
-# New Immigrants in Norway
 ## Introduction Program
+```{r}
+knitr::include_graphics("images/integration.jpg")
+```
 ]
 .right-column[
 ### Object of Introduction program
@@ -101,8 +116,10 @@ Work Permit
 
 ---
 .left-column[
-# New Immigrants in Norway
 ## Services
+```{r}
+knitr::include_graphics("https://pixabay.com/get/ea31b70828e90021d85a5840e04a4691e470e3c818b411479cf8c07ea4ea/note-34670_1280.png")
+```
 ]
 .right-column[
 ### Tax (Skatteetaten)
@@ -117,8 +134,10 @@ Work Permit
 
 ---
 .left-column[
-# New Immigrants in Norway
 ## Participation
+```{r}
+knitr::include_graphics("https://pixabay.com/get/e837b20b28f7063ed1584d05fb094090e370e5d218ac104495f6c871a6e5b4ba/hands-1234037_1280.jpg")
+```
 ]
 .right-column[
 ### Language Training
