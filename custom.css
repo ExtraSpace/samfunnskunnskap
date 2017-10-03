@@ -2,6 +2,10 @@
   background-image: url(images/title-image.jpg);
   background-size: cover;
 }
+.title-slide{
+  background-image: url(images/history-geography.jpg);
+  background-size: cover;
+}
 
 .remark-slide-content{
   font-size: 165%;

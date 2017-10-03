@@ -1,0 +1,54 @@
+---
+title: "History, Geography and Way of Living in Norway"
+subtitle: "<h1><em>Quiz</em></h1>"
+author: "Raju Rimal"
+output:
+  prettydoc::html_pretty:
+    theme: tactile
+    highlight: github
+---
+
+* When was university of Oslo established?
+    - 1714
+    - **1811**
+    - 1935
+* Constitution of Norway was written in May 17 of year
+    - **1814**
+    - 1810
+    - 1811
+* Which of the following is not Norwegian Artist
+    - Edvard Munch
+    - Christian Krohg
+    - **Carl Larsson**
+* There is not number 13 county in Norway. However before 1972, number 12 county `Hordaland` was merged with number 13 county at the time. Which county was that?
+    - Os
+    - Voss
+    - **Bergen**
+* Which two Nordic countries are republic (have president not king)
+    - Norway
+    - Denmark
+    - **Iceland**
+    - Sweden
+    - **Finland**
+* What percent of population of Norway are settled in inland of Norway?
+    - **25%**
+    - 40%
+    - 50%
+* From when Norway does not have state religion?
+    - 1914
+    - 2005
+    - **2012**
+* After how many days of Easter is `Ascension` day?
+    - **40 days**
+    - 50 days
+    - 35 days
+* Order the following kommune in terms of population
+    - Bergen (2)
+    - Oslo (1)
+    - Trondheim (3)
+    - Bærum (5)
+    - Stavanger (4)
+* I am the largest lake of Norway, what is my name,
+    - Maridalsvannet
+    - **Mjøsa**
+    - Røssvatnet

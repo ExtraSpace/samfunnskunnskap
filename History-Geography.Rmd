@@ -1,5 +1,5 @@
 ---
-title: "Living in Norway"
+title: "History, Geography and ways of living in Norway"
 subtitle: "samfunnskunnskap"
 output:
   xaringan::moon_reader:
